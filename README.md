@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a future data scientist
+- 🔭 I’m a data scientist
 - 👯  Always somewhere near IT
 <!--
 **Vish-95/Vish-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
